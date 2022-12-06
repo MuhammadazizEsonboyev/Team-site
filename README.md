@@ -3,16 +3,12 @@
 
 >Team Quvonchbek
 
-
-|   |  |  |
-|  --    | -- | 
+|  -1-    | -2- | 
 | Xayrulloh | G'ulomjon |  
 <br>
 
 >Team Umida
 
-
-|   |  |  |
 |  --    | -- |  --|
 | Shohruh | Laylo |  Sarvar |
 <br>
@@ -21,8 +17,6 @@
 <<<<<<< HEAD
 =======
 
-
-|   |  |  |
 |  --    | -- | 
 | Asadbek | Ozodbek |  
 >>>>>>> 43ff3104250de8d0fcfff5a4818e93541dd9239e
