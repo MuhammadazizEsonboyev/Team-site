@@ -5,8 +5,8 @@
 
 
 |   |  |  |
-|  --    | -- |  --|
-| Xayrulloh | G'ulomjon |  |
+|  --    | -- | 
+| Xayrulloh | G'ulomjon |  
 <br>
 
 >Team Umida
@@ -21,8 +21,8 @@
 
 
 |   |  |  |
-|  --    | -- |  --|
-| Asadbek | Ozodbek |  |
+|  --    | -- | 
+| Asadbek | Ozodbek |  
 <li>06.12.2022</li>
 <br>
 <p>1.Asadbek home page dagi navbarni bajaradi</p>
