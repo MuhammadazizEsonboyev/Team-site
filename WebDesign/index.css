@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+padding: 0px;
+}
+body{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background: #181818;
+    /* box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4); */
+   
+}
+.ux{
+    display: flex;
+    justify-content: center;
+}
+.list-iteam{
+    list-style: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.obwiy{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.ru{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F0D905;
+    margin-right: 5px;
+}
+.eng{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 5px;
+}
+.group11{
+    width: 36px;
+    height: 16px;
+}
+.tel{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+#tel{
+    margin-top: -15px;
+}
+.web{
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 88px;
+    margin-top: 165px;
+    color: #FFFFFF;
+    width: 700px;
+}
+.dizayn{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    width: 798px;
+    margin-bottom: 166px;
+}
+header{
+    background: url(./img/2\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+form{
+    background: rgba(196, 196, 196, 0.15);
+border: 1px solid #FFFFFF;
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+}
+.zayavka{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 30px;
+    color: #FFFFFF;
+
+}
+.logo{
+    margin-top: 120px;
+}
+.fa-brands{
+    background: #FFFFFF;
+    color: black;
+    margin-left: 40px;
+   border-radius: 15px;
+   margin-top: 40px;
+   
+}
+#insta{
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding-right: 1px;
+    padding-left: 1px;
+}
+legend{
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+
+}
+form{
+   
+    background: rgba(196, 196, 196, 0.15);
+    border: 1px solid #FFFFFF;
+    backdrop-filter: blur(5px);
+   padding-left: 40px;
+   margin-left: 30px;
+   margin-top: 67px;
+}
+input{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    width: 324px;
+    height: 50px;
+    margin-top: 10px;
+    background: rgba(196, 196, 196, 0.15);
+    }
+.btn{
+    padding: 14px 109px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #181818;
+    background: #C4C4C4;
+    border: 1px solid yellow;
+    background-color: #F0D905;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }   
+ 
+
