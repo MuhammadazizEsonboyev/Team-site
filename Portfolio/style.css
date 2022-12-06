@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+}
+
+nav {
+    background: #181818;
+    height: 80px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.list {
+    padding-top: 29px;
+
+    display: flex;
+}
+
+.list_item {
+    list-style: none;
+}
+
+.list_item a {
+    text-decoration: none;
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+.navdiv {
+    margin-top: 29px;
+    display: flex;
+}
+
+.ru {
+    font-weight: 700;
+    font-size: 18px;
+    color: #F0D905;
+    margin-right: 5px;
+}
+
+.en {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 5px;
+}
+
+.listi {
+    list-style: none;
+}
+
+.itemi a {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.va {
+    letter-spacing: 0.02em;
+}
+
+.nadiva {
+    margin-top: -14px;
+}
+
+.nashe {
+    background: #181818;
+}
+
+.port {
+    margin-left: 208px;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #F0D905;
+    margin-bottom: 78px;
+}
+
+.qator {
+
+    margin-bottom: 100px;
+    display: flex;
+}
+
+.qatori {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-right: 70px;
+}
+
+.and {
+    color: #FFFFFF;
+    filter: blur(1px);
+}
