@@ -12,7 +12,6 @@ body {
 
 nav {
     background: #181818;
-    height: 80px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
 }
 
@@ -101,249 +100,352 @@ nav {
     color: #FFFFFF;
     filter: blur(1px);
 }
+
 /* -------------------------------------------header end----------------------------------------- */
 /* -------------------------------------------section start-------------------------------------- */
-.sec{
+.sec {
     background-color: #181818;
-    
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+
 }
-.card{
+
+.card {
     background-color: #181818;
     margin-top: 100px;
 }
-.raq{
+
+.raq {
     background: url(./img/01.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq2{
+
+.raq2 {
     background: url(./img/02.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq3{
+
+.raq3 {
     background: url(./img/03.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq4{
+
+.raq4 {
     background: url(./img/04.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq5{
+
+.raq5 {
     background: url(./img/05.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq6{
+
+.raq6 {
     background: url(./img/06.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq7{
+
+.raq7 {
     background: url(./img/07.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq8{
+
+.raq8 {
     background: url(./img/08.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq9{
+
+.raq9 {
     background: url(./img/09.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq10{
+
+.raq10 {
     background: url(./img/10.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq11{
+
+.raq11 {
     background: url(./img/11.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.raq12{
+
+.raq12 {
     background: url(./img/12.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-font-weight: 700;
-font-size: 36px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
-padding-right: 34px;
-padding-top: 10px;
-padding-bottom: 8px;
-
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    padding-right: 34px;
+    padding-top: 10px;
+    padding-bottom: 8px;
 }
-.muz{
+
+.muz {
     margin-top: 10px;
     margin-left: 20px;
-font-weight: 700;
-font-size: 30px;
-line-height: 30px;
-/* identical to box height, or 83% */
-
-
-color: #FFFFFF;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
 }
-.nomer1{
-    width: 100%;
 
+.nomer1 {
+    width: 100%;
     margin-top: 10px;
 }
-.btn1{
+
+.btn1 {
     margin-left: 20px;
     margin-top: 70px;
-background: #F0D905;
-border-radius: 60px;
-    padding: 25px 49px;
-font-weight: 700;
-font-size: 24px;
-line-height: 30px;
-/* identical to box height, or 125% */
-
-
-color: #000000;
-
+    background: #F0D905;
+    border-radius: 60px;
+    width: 280px;
+    height: 80px;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 200px;
 }
+
 /* ----------------------------------------section end ------------------------------ */
+.footer1 {
+    background: #181818;
+    box-shadow: 0px -1px 20px rgba(0, 0, 0, 0.5);
+    padding-bottom: 50px;
+}
+
+.logo2 {
+    margin-top: 42px;
+}
+
+.ator {
+    margin-top: 92px;
+    display: flex;
+}
+
+.tur {
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.footimg {
+    margin-top: 71px;
+}
+
+.chiziq {
+    background: rgba(255, 255, 255, 0.2);
+    border: 3px solid;
+    margin-top: 38px;
+}
+
+.footer2 {
+    background: #181818;
+    padding-bottom: 50px;
+}
+
+.nomerno1 {
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding-bottom: 14px;
+}
+
+.nomerno2 {
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.divnomerall {
+    margin-top: 148px;
+}
+
+.textfoter {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 400px;
+    color: #FFFFFF;
+}
+
+.divfotertext {
+    margin-top: 37px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.form1 {
+    width: 384px;
+    height: 425px;
+    background: rgba(196, 196, 196, 0.15);
+    border: 1px solid #FFFFFF;
+    backdrop-filter: blur(5px);
+}
+
+.Оставить {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+.input_box1 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-left: 25px;
+}
+
+.form-label {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 25px;
+    padding: 0;
+}
+
+.tl {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+.input_box2 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+
+option {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 5;
+    background: transparent;
+}
+
+.btn11 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #181818;
+    background: #F0D905;
+    border: none;
+
+    margin-left: 25px;
+    width: 324px;
+    height: 50px;
+}
+
+.uf {
+    margin-left: 140px;
+}
+.john{
+    margin-top: 50px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #FFFFFF;
+}
