@@ -244,3 +244,50 @@ option {
     margin-left: 15px;
     text-align: start;
 }
+
+.carp {
+    width: 800px;
+    height: 145px;
+    background: #181818;
+    box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.3), 10px 10px 20px rgba(0, 0, 0, 0.3);
+    margin-left: 16px;
+}
+
+.carp2 {
+    width: 800px;
+    height: 145px;
+    background: #181818;
+    box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.3), 10px 10px 20px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    margin-right: 17px;
+    margin-bottom: 41px;
+}
+
+.ime_div {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.PYTHON {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.PYTHON2 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: 47px;
+}
+
+.создании {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 60px;
+}
