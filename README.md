@@ -18,11 +18,14 @@
 <br>
 
 >Team Azizbek
+<<<<<<< HEAD
+=======
 
 
 |   |  |  |
 |  --    | -- | 
 | Asadbek | Ozodbek |  
+>>>>>>> 43ff3104250de8d0fcfff5a4818e93541dd9239e
 <li>06.12.2022</li>
 <br>
 <h1>Porfolio page hozircha faqat desktop farmati</h1>
