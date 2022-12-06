@@ -87,7 +87,6 @@ nav {
 
 .qator {
 
-    margin-bottom: 100px;
     display: flex;
 }
 
@@ -103,3 +102,248 @@ nav {
     filter: blur(1px);
 }
 /* -------------------------------------------header end----------------------------------------- */
+/* -------------------------------------------section start-------------------------------------- */
+.sec{
+    background-color: #181818;
+    
+}
+.card{
+    background-color: #181818;
+    margin-top: 100px;
+}
+.raq{
+    background: url(./img/01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq2{
+    background: url(./img/02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq3{
+    background: url(./img/03.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq4{
+    background: url(./img/04.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq5{
+    background: url(./img/05.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq6{
+    background: url(./img/06.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq7{
+    background: url(./img/07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq8{
+    background: url(./img/08.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq9{
+    background: url(./img/09.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq10{
+    background: url(./img/10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq11{
+    background: url(./img/11.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.raq12{
+    background: url(./img/12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+padding-right: 34px;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+.muz{
+    margin-top: 10px;
+    margin-left: 20px;
+font-weight: 700;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+
+color: #FFFFFF;
+}
+.nomer1{
+    width: 100%;
+
+    margin-top: 10px;
+}
+.btn1{
+    margin-left: 20px;
+    margin-top: 70px;
+background: #F0D905;
+border-radius: 60px;
+    padding: 25px 49px;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+
+color: #000000;
+
+}
+/* ----------------------------------------section end ------------------------------ */
