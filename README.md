@@ -25,7 +25,9 @@
 | Asadbek | Ozodbek |  |
 <li>06.12.2022</li>
 <br>
-<p>1.Asadbek home page dagi navbarni bajaradi</p>
-<p>1.Ozodbek section page dagi navbarni bajaradi</p>
+<h1>Porfolio page hozircha faqat desktop farmati</h1>
+<p>1.Azizbek navbarni bajaradi</p>
+<p>2.Ozodbek caardlarni bajaradi</p>
+<p>3.Asadbek footerni bajaradi</p>
 
 
