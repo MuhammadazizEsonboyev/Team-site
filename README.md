@@ -22,7 +22,7 @@
 
 |   |  |  |
 |  --    | -- |  --|
-| Asadbek | Ozodbek | Azizbek |
+| Asadbek | Ozodbek | |
 <li>06.12.2022</li>
 <br>
 <h1>Porfolio page hozircha faqat desktop farmati</h1>
