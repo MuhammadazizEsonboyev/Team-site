@@ -21,7 +21,7 @@
 
 |   |  |  |
 |  --    | -- |  --|
-| Asadbek | Ozodbek |  Azizbek |
+| Asadbek | Ozodbek |  |
 
 <li>06.12.2022</li>
 <br>
