@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    background: #181818;
 }
 
 nav {
@@ -120,10 +121,11 @@ nav {
 .form1 {
     width: 384px;
     height: 425px;
-    background: rgba(196, 196, 196, 0.15);
-    border: 1px solid #FFFFFF;
+    background: rgba(196, 196, 196, 0.082);
     backdrop-filter: blur(5px);
+    border: 1px solid #FFFFFF;
     margin-top: 67px;
+    margin-left: 35px;
 }
 
 .Оставить {
@@ -161,13 +163,19 @@ nav {
     margin-left: 25px;
 }
 
+.label_div {
+    background: rgba(196, 196, 196, 0.082);
+}
+
 .form-label {
     font-weight: 400;
     font-size: 14px;
     color: #FFFFFF;
     margin: 0;
     margin-left: 25px;
-    padding: 0;
+    padding: 0px 5px;
+    margin-top: 14px;
+    position: relative;
 }
 
 .tl {
@@ -175,9 +183,10 @@ nav {
     font-size: 14px;
     color: #FFFFFF;
     margin: 0;
-    padding: 0;
+    padding: 0px 5px;
     margin-left: 25px;
-    margin-top: 15px;
+    margin-top: 13px;
+    position: relative;
 }
 
 .btn1 {
@@ -207,6 +216,7 @@ option {
 
 .im_div {
     margin-top: 37px;
+    margin-left: 15px;
 }
 
 .carb {
@@ -232,7 +242,7 @@ option {
     color: #FFFFFF;
     margin-top: 30px;
     margin-bottom: 20px;
-    margin-left: 15px;
+    margin-left: 30px;
     text-align: start;
 }
 
@@ -241,8 +251,14 @@ option {
     font-size: 16px;
     color: #FFFFFF;
     margin-bottom: 46px;
-    margin-left: 15px;
+    margin-left: 30px;
     text-align: start;
+}
+
+.ff_img{
+    position: relative;
+    top: 25px;
+    left: 127px;
 }
 
 .carp {
@@ -290,4 +306,283 @@ option {
     color: #FFFFFF;
     margin-top: 30px;
     margin-left: 60px;
+}
+
+.sect3 {
+    background: #181818;
+}
+
+.gg_img {
+    margin-left: 20px;
+}
+
+.list_item3 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 40px;
+    padding-top: 20px;
+}
+
+.list_item2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 40px;
+    padding-top: 20px;
+}
+
+.flx_div {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.div_ime {
+    margin-left: 30px;
+}
+
+.Bank {
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.body_img {
+    margin-left: 30px;
+    border: 1px solid #FFFFFF;
+    width: 369px;
+}
+
+.еще {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+    padding: 25px 49px;
+    background: #F0D905;
+    border-radius: 60px;
+    margin-top: 70px;
+    margin-bottom: 26px;
+}
+
+.mb {
+    margin-bottom: 26px;
+}
+
+.mb2 {
+    margin-bottom: 49px;
+}
+
+.afa_card {
+    background: #181818;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+    border-radius: 30px;
+    width: 488px;
+    height: 318px;
+    margin-bottom: 84px;
+}
+
+.afa_card2 {
+    background: #181818;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+    border-radius: 30px;
+    width: 488px;
+    height: 318px;
+    margin-bottom: 200px;
+}
+
+.dimage {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.abror {
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text_txt {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: start;
+    margin-left: 35px;
+}
+
+.str_pic {
+    padding-left: 318px;
+}
+
+.footer1 {
+    background: #181818;
+    box-shadow: 0px -1px 20px rgba(0, 0, 0, 0.5);
+    padding-bottom: 50px;
+}
+
+.logo2 {
+    margin-top: 42px;
+}
+
+.ator {
+    margin-top: 92px;
+    display: flex;
+}
+
+.tur {
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 4px;
+    right: 22px;
+}
+
+.footimg {
+    margin-top: 71px;
+}
+
+.chiziq {
+    background: rgba(255, 255, 255, 0.2);
+    border: 3px solid;
+    margin-top: 38px;
+}
+
+.footer2 {
+    background: #181818;
+    padding-bottom: 50px;
+}
+
+.nomerno1 {
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding-bottom: 14px;
+}
+
+.nomerno2 {
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.divnomerall {
+    margin-top: 148px;
+}
+
+.textfoter {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 400px;
+    color: #FFFFFF;
+}
+
+.divfotertext {
+    margin-top: 37px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.form12 {
+    width: 384px;
+    height: 425px;
+    background: rgba(196, 196, 196, 0.15);
+    border: 1px solid #FFFFFF;
+    backdrop-filter: blur(5px);
+}
+
+.Оставить2 {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+.input_box12 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-left: 25px;
+}
+
+.form-label22 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 25px;
+    padding: 0;
+}
+
+.tl22 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0px 5px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.input_box22 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+
+option {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 5;
+    background: transparent;
+}
+
+.btn11 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #181818;
+    background: #F0D905;
+    border: none;
+
+    margin-left: 25px;
+    width: 324px;
+    height: 50px;
+}
+
+.uf {
+    margin-left: 140px;
+}
+
+.john {
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
 }
