@@ -17,7 +17,7 @@ nav {
 
 .logo_div {
     position: relative;
-    top: 8px;
+    top: 4px;
 }
 
 
@@ -98,9 +98,6 @@ nav {
     background: url(./img/2\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: local;
-    height: 559px;
-    width: 100%;
 }
 
 .Web {
@@ -255,10 +252,11 @@ option {
     text-align: start;
 }
 
-.ff_img{
+.ff_img {
     position: relative;
     top: 25px;
     left: 127px;
+    width: 105px;
 }
 
 .carp {
@@ -385,15 +383,6 @@ option {
     margin-bottom: 84px;
 }
 
-.afa_card2 {
-    background: #181818;
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
-    border-radius: 30px;
-    width: 488px;
-    height: 318px;
-    margin-bottom: 200px;
-}
-
 .dimage {
     text-align: center;
     padding-top: 30px;
@@ -416,7 +405,10 @@ option {
 }
 
 .str_pic {
-    padding-left: 318px;
+    padding-left: 210px;
+    position: relative;
+    bottom: 0px;
+    left: 55px;
 }
 
 .footer1 {
@@ -585,4 +577,228 @@ option {
     font-size: 18px;
     line-height: 24px;
     color: #FFFFFF;
+}
+
+.tur2 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.ator2 {
+    display: flex;
+    margin-top: 100px;
+}
+
+@media (max-width: 575px) {
+    .logo_div {
+        height: 35px;
+    }
+
+    nav {
+        height: 70px;
+    }
+
+    .menu_div {
+        position: relative;
+        top: 22px;
+        right: 20px;
+    }
+
+    .Web2 {
+        font-weight: 700;
+        font-size: 36px;
+        color: #FFFFFF;
+        text-align: center;
+        margin-top: 90px;
+        margin-bottom: 30px;
+    }
+
+    .Веб2 {
+        font-weight: 400;
+        font-size: 18px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 50px;
+    }
+
+    .заявку {
+        font-weight: 700;
+        font-size: 18px;
+        text-align: center;
+        color: #181818;
+        padding: 14px 23px;
+        background: #F0D905;
+        border-radius: 30px;
+        margin: auto;
+        margin-bottom: 55px;
+    }
+
+    .sect1 {
+        background: url(./img/go\ go\ dino.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .imgs {
+        text-align: center;
+        margin-bottom: 88px;
+    }
+
+    .gg_imgdem {
+        width: 414px;
+    }
+
+    .Bank22 {
+        font-weight: 700;
+        font-size: 36px;
+        color: #FFFFFF;
+    }
+
+    .w69 {
+        width: 69px;
+    }
+
+    .bod_img {
+        border: 1px solid #FFFFFF;
+        width: 343px;
+        height: 250px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .gg_imgm {
+        margin-bottom: 30px;
+    }
+
+    .afa_card {
+        width: 343px;
+        height: 223px;
+        background: #181818;
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+        border-radius: 30px;
+    }
+
+    .dimage {
+        width: 42px;
+        height: 42px;
+        text-align: center;
+        padding-top: 30px;
+        position: relative;
+        bottom: 20px;
+        left: 150px;
+    }
+
+    .dimage_res {
+        width: 42px;
+        height: 42px;
+        position: relative;
+        left: 153px;
+        top: 15px;
+    }
+
+    .abror {
+        font-weight: 700;
+        font-size: 18px;
+        color: #FFFFFF;
+        margin-top: 25px;
+    }
+
+    .text_txt {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .str_pic {
+        padding-left: 153px;
+        position: relative;
+        bottom: 30px;
+        width: 10px;
+    }
+
+    .tur2 {
+        font-weight: 400;
+        font-size: 16px;
+        color: #FFFFFF;
+        opacity: 0.5;
+        text-decoration: none;
+    }
+
+    .ator2 {
+        display: flex;
+        margin-top: 100px;
+    }
+
+    .links_io2 {
+        margin-right: 33px;
+    }
+
+    .links_io {
+        margin-bottom: 30px;
+    }
+
+    .list_a {
+        font-weight: 400;
+        font-size: 16px;
+        color: #FFFFFF;
+        opacity: 0.5;
+        text-decoration: none;
+    }
+
+    .numbers20 {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .numbers21 {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .График {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .lins1 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 20px;
+    }
+
+    .lins2 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 20px;
+    }
+
+    .lins3 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 30px;
+    }
+
+    .lins4 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 50px;
+    }
+
+    .form22 {
+        background: rgba(196, 196, 196, 0.082);
+        backdrop-filter: blur(5px);
+        border: 1px solid #FFFFFF;
+        height: 440px;
+        margin-bottom: 57px;
+    }
+
+    .ikmjh {
+        margin-bottom: 57px;
+    }
 }
