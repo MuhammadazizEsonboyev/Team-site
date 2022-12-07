@@ -2,10 +2,12 @@
 
 
 >Team Quvonchbek
-
-|  -1-    | -2- | 
-| Xayrulloh | G'ulomjon |  
 <br>
+<li>Team leader Quvonchbek
+<br><br>
+<li>Xayrulloh | G'ulomjon  
+<li>Good Luck Team 
+<br><br>
 
 >Team Umida
 
