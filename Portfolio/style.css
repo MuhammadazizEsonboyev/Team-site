@@ -442,10 +442,67 @@ option {
 .uf {
     margin-left: 140px;
 }
-.john{
+
+.john {
     margin-top: 50px;
     font-weight: 400;
-font-size: 18px;
-line-height: 24px;
-color: #FFFFFF;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+    .vaz {
+        background: #181818;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    }
+
+    .bg-dark {
+        background-color: #181818;
+    }
+
+    .nashi {
+        background-color: #181818;
+        padding-top: 31px;
+        display: flex;
+    }
+
+    .btn88 {
+        background: #F0D905;
+        box-shadow: 0px 0px 4px #F0D905;
+        border-radius: 9px;
+        border: none;
+        width: 126px;
+        height: 22px;
+        font-weight: 700;
+        font-size: 16px;
+        color: #212121;
+    }
+
+    .resp {
+        font-weight: 400;
+        font-size: 16px;
+        color: #FFFFFF;
+        margin-left: 27px;
+    }
+
+    .nasher {
+        margin-top: 75px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        color: #F0D905;
+        margin-bottom: 74px;
+    }
 }
