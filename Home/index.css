@@ -351,13 +351,11 @@ option {
 
 .body_img {
     margin-left: 30px;
-    border: 1px solid #FFFFFF;
     width: 369px;
 }
 
 .body_img:hover {
     margin-left: 30px;
-    border: 1px solid #FFFFFF;
     width: 369px;
     background: #181818;
     box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
@@ -678,7 +676,6 @@ option {
     }
 
     .bod_img:hover {
-        border: 1px solid #FFFFFF;
         width: 343px;
         height: 250px;
         text-align: center;
