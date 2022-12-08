@@ -731,7 +731,7 @@ option {
     }
 
     .str_pic2 {
-        padding-left: 153px;
+        padding-left: 205px;
         position: relative;
         bottom: 30px;
         width: 10px;
@@ -818,5 +818,42 @@ option {
 
     .ikmjh {
         margin-bottom: 57px;
+    }
+
+    .input_box1 {
+        width: 324px;
+        height: 50px;
+        border: 1px solid #FFFFFF;
+        font-weight: 400;
+        font-size: 14px;
+        color: #FFFFFF;
+        border-radius: 0;
+        padding-left: 5px;
+        background: transparent;
+        margin-left: 20px;
+    }
+
+    .btn1 {
+        font-weight: 700;
+        font-size: 18px;
+        color: #181818;
+        background: #F0D905;
+        border: none;
+        margin-left: 20px;
+        padding: 14px 109.5px 14px 110px;
+    }
+
+    .input_box2 {
+        width: 324px;
+        height: 50px;
+        border: 1px solid #FFFFFF;
+        font-weight: 400;
+        font-size: 14px;
+        color: #FFFFFF;
+        border-radius: 0;
+        padding-left: 5px;
+        background: transparent;
+        margin-bottom: 30px;
+        margin-left: 20px;
     }
 }
