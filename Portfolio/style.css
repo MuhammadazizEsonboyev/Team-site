@@ -112,6 +112,9 @@ nav {
 .card {
     background-color: #181818;
     margin-top: 100px;
+    
+}
+.card :hover{
     box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
 }
 
@@ -558,5 +561,8 @@ option {
     .card{
         scale: 0.95;
         box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
+    }
+    .divnomerall{
+        scale: 0.6;
     }
 }
