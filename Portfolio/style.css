@@ -112,10 +112,12 @@ nav {
 .card {
     background-color: #181818;
     margin-top: 100px;
-    
+    transition: 0.5s;
 }
 .card :hover{
     box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
+    scale: 1.1;
+    transition: 0.5s;
 }
 
 .raq {
@@ -507,7 +509,7 @@ option {
         line-height: 44px;
         text-align: center;
         color: #F0D905;
-        margin-bottom: 74px;
+        margin-bottom: -21px;
     }
 
     .btn1 {
@@ -559,10 +561,16 @@ option {
         height: 48px;
     }
     .card{
-        scale: 0.95;
-        box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
+        scale: 0.90;
+        transition: 0.5s;
     }
     .divnomerall{
         scale: 0.6;
     }
+    .card :hover{
+        box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
+        scale: 1.1;
+        transition: 0.5s;
+    }
 }
+
