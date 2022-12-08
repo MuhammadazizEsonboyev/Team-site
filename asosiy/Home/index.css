@@ -1,0 +1,822 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #181818;
+}
+
+nav {
+    background: #181818;
+}
+
+.logo_div {
+    position: relative;
+    top: 4px;
+}
+
+
+.list_item {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-right: 15px;
+    margin-top: 29px;
+    text-decoration: none;
+}
+
+
+.list {
+    display: flex;
+    justify-content: center;
+    /* margin-left: 170px; */
+}
+
+
+.rus {
+    font-weight: 700;
+    font-size: 18px;
+    color: #F0D905;
+
+}
+
+
+
+
+
+.eng {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 80px;
+    margin-top: -15px;
+}
+
+
+.iconok {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+
+.number {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: -14px;
+}
+
+
+.numberr {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.image_div {
+    position: relative;
+    bottom: 4px;
+    right: 27px;
+}
+
+
+/* .blog{
+    margin-left: 47px;
+} */
+
+
+/*   header end   */
+/* section1 start */
+
+.sect1 {
+    background: url(./img/2\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Web {
+    font-weight: 700;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 181px;
+    margin-bottom: 20px;
+}
+
+.Веб {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 150px;
+}
+
+.form1 {
+    width: 384px;
+    height: 425px;
+    background: rgba(196, 196, 196, 0.082);
+    backdrop-filter: blur(5px);
+    border: 1px solid #FFFFFF;
+    margin-top: 67px;
+    margin-left: 35px;
+}
+
+.Оставить {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+.input_box1 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-left: 25px;
+}
+
+.input_box2 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+
+.label_div {
+    background: rgba(196, 196, 196, 0.082);
+}
+
+.form-label {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 25px;
+    padding: 0px 5px;
+    margin-top: 14px;
+    position: relative;
+}
+
+.tl {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0px 5px;
+    margin-left: 25px;
+    margin-top: 13px;
+    position: relative;
+}
+
+.btn1 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #181818;
+    background: #F0D905;
+    border: none;
+    margin-left: 25px;
+    padding: 14px 109.5px 14px 110px;
+}
+
+option {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 5;
+    background: transparent;
+}
+
+/*  section1 end  */
+/* section2 start */
+
+.sect2 {
+    background: #181818;
+}
+
+.im_div {
+    margin-top: 37px;
+    margin-left: 15px;
+}
+
+.carb {
+    background: #181818;
+    box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.3), 10px 10px 20px rgba(0, 0, 0, 0.3);
+    height: 400px;
+    width: 384px;
+    border-radius: 0px;
+    margin-bottom: 30px;
+}
+
+.дизайн {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+
+.макетов {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    text-align: start;
+}
+
+.прототипа {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 46px;
+    margin-left: 30px;
+    text-align: start;
+}
+
+.ff_img {
+    position: relative;
+    top: 25px;
+    left: 127px;
+    width: 105px;
+}
+
+.carp {
+    width: 800px;
+    height: 145px;
+    background: #181818;
+    box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.3), 10px 10px 20px rgba(0, 0, 0, 0.3);
+    margin-left: 16px;
+}
+
+.carp2 {
+    width: 800px;
+    height: 145px;
+    background: #181818;
+    box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.3), 10px 10px 20px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    margin-right: 17px;
+    margin-bottom: 41px;
+}
+
+.ime_div {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.PYTHON {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.PYTHON2 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: 47px;
+}
+
+.создании {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.sect3 {
+    background: #181818;
+}
+
+.gg_img {
+    margin-left: 20px;
+}
+
+.list_item3 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 40px;
+    padding-top: 20px;
+}
+
+.list_item2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 40px;
+    padding-top: 20px;
+}
+
+.flx_div {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.div_ime {
+    margin-left: 30px;
+}
+
+.Bank {
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.body_img {
+    margin-left: 30px;
+    border: 1px solid #FFFFFF;
+    width: 369px;
+}
+
+.body_img:hover {
+    margin-left: 30px;
+    border: 1px solid #FFFFFF;
+    width: 369px;
+    background: #181818;
+    box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.еще {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+    padding: 25px 49px;
+    background: #F0D905;
+    border-radius: 60px;
+    margin-top: 70px;
+    margin-bottom: 26px;
+}
+
+.mb {
+    margin-bottom: 26px;
+}
+
+.mb2 {
+    margin-bottom: 49px;
+}
+
+.afa_card {
+    background: #181818;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+    border-radius: 30px;
+    width: 488px;
+    height: 318px;
+    margin-bottom: 84px;
+}
+
+.dimage {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.abror {
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text_txt {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: start;
+    margin-left: 35px;
+}
+
+.str_pic {
+    padding-left: 210px;
+    position: relative;
+    bottom: 0px;
+    left: 55px;
+}
+
+.footer1 {
+    background: #181818;
+    box-shadow: 0px -1px 20px rgba(0, 0, 0, 0.5);
+    padding-bottom: 50px;
+}
+
+.logo2 {
+    margin-top: 42px;
+}
+
+.ator {
+    margin-top: 92px;
+    display: flex;
+}
+
+.tur {
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: relative;
+    bottom: 4px;
+    right: 22px;
+}
+
+.footimg {
+    margin-top: 71px;
+}
+
+.chiziq {
+    background: rgba(255, 255, 255, 0.2);
+    border: 3px solid;
+    margin-top: 38px;
+}
+
+.footer2 {
+    background: #181818;
+    padding-bottom: 50px;
+}
+
+.nomerno1 {
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding-bottom: 14px;
+}
+
+.nomerno2 {
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.divnomerall {
+    margin-top: 148px;
+}
+
+.textfoter {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 400px;
+    color: #FFFFFF;
+}
+
+.divfotertext {
+    margin-top: 37px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.form12 {
+    width: 384px;
+    height: 425px;
+    background: rgba(196, 196, 196, 0.15);
+    border: 1px solid #FFFFFF;
+    backdrop-filter: blur(5px);
+}
+
+.Оставить2 {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+.input_box12 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-left: 25px;
+}
+
+.form-label22 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 25px;
+    padding: 0;
+}
+
+.tl22 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0px 5px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.input_box22 {
+    width: 324px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding-left: 5px;
+    background: transparent;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+
+option {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 5;
+    background: transparent;
+}
+
+.btn11 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #181818;
+    background: #F0D905;
+    border: none;
+
+    margin-left: 25px;
+    width: 324px;
+    height: 50px;
+}
+
+.uf {
+    margin-left: 140px;
+}
+
+.john {
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.tur2 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.ator2 {
+    display: flex;
+    margin-top: 100px;
+}
+
+@media (max-width: 575px) {
+    .logo_div {
+        height: 35px;
+    }
+
+    nav {
+        height: 70px;
+    }
+
+    .menu_div {
+        position: relative;
+        top: 22px;
+        right: 20px;
+    }
+
+    .Web2 {
+        font-weight: 700;
+        font-size: 36px;
+        color: #FFFFFF;
+        text-align: center;
+        margin-top: 90px;
+        margin-bottom: 30px;
+    }
+
+    .Веб2 {
+        font-weight: 400;
+        font-size: 18px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 50px;
+    }
+
+    .заявку {
+        font-weight: 700;
+        font-size: 18px;
+        text-align: center;
+        color: #181818;
+        padding: 14px 23px;
+        background: #F0D905;
+        border-radius: 30px;
+        margin: auto;
+        margin-bottom: 55px;
+    }
+
+    .sect1 {
+        background: url(./img/go\ go\ dino.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .imgs {
+        text-align: center;
+        margin-bottom: 88px;
+    }
+
+    .gg_imgdem {
+        width: 389px;
+    }
+
+    .Bank22 {
+        font-weight: 700;
+        font-size: 36px;
+        color: #FFFFFF;
+    }
+
+    .w69 {
+        width: 69px;
+    }
+
+    .bod_img {
+        border: 1px solid #FFFFFF;
+        width: 343px;
+        height: 250px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .bod_img:hover {
+        border: 1px solid #FFFFFF;
+        width: 343px;
+        height: 250px;
+        text-align: center;
+        margin: auto;
+        background: #181818;
+        box-shadow: -10px -10px 30px rgba(0, 0, 0, 0.5), 10px 10px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .gg_imgm {
+        margin-bottom: 30px;
+    }
+
+    .afa_card {
+        width: 343px;
+        height: 223px;
+        background: #181818;
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+        border-radius: 30px;
+    }
+
+    .dimage {
+        width: 42px;
+        height: 42px;
+        text-align: center;
+        padding-top: 30px;
+        position: relative;
+        bottom: 30px;
+        left: -5px;
+    }
+
+    .dimage_res {
+        width: 42px;
+        height: 42px;
+        position: relative;
+        left: 153px;
+        top: 15px;
+    }
+
+    .abror {
+        font-weight: 700;
+        font-size: 18px;
+        color: #FFFFFF;
+        margin-top: 25px;
+    }
+
+    .text_txt {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .str_pic2 {
+        padding-left: 153px;
+        position: relative;
+        bottom: 30px;
+        width: 10px;
+    }
+
+    .tur2 {
+        font-weight: 400;
+        font-size: 16px;
+        color: #FFFFFF;
+        opacity: 0.5;
+        text-decoration: none;
+    }
+
+    .ator2 {
+        display: flex;
+        margin-top: 100px;
+    }
+
+    .links_io2 {
+        margin-right: 33px;
+    }
+
+    .links_io {
+        margin-bottom: 30px;
+    }
+
+    .list_a {
+        font-weight: 400;
+        font-size: 16px;
+        color: #FFFFFF;
+        opacity: 0.5;
+        text-decoration: none;
+    }
+
+    .numbers20 {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .numbers21 {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .График {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .lins1 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 20px;
+    }
+
+    .lins2 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 20px;
+    }
+
+    .lins3 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 30px;
+    }
+
+    .lins4 {
+        margin: auto;
+        margin-left: 16px;
+        margin-bottom: 50px;
+    }
+
+    .form22 {
+        background: rgba(196, 196, 196, 0.082);
+        backdrop-filter: blur(5px);
+        border: 1px solid #FFFFFF;
+        height: 440px;
+        margin-bottom: 57px;
+    }
+
+    .ikmjh {
+        margin-bottom: 57px;
+    }
+}
