@@ -8,6 +8,8 @@
 <li>Xayrulloh | G'ulomjon  
 <li>Good Luck Team 
 <br><br>
+<li>Biz Tugattik Responsive ham bor
+<br><br>
 
 >Team Umida
 
