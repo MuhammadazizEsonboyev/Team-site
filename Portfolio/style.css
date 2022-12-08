@@ -456,6 +456,9 @@ option {
     line-height: 24px;
     color: #FFFFFF;
 }
+.aa{
+    text-decoration: none;
+}
 
 /* 992 dan 1199 gacha */
 @media (max-width: 1199px) {}
@@ -523,6 +526,9 @@ option {
         font-size: 18px;
         color: #000000;
         margin-bottom: 50px;
+    }
+    .aa{
+        text-decoration: none;
     }
 
     .oz {
