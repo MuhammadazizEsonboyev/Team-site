@@ -72,7 +72,6 @@ nav{
     line-height: 30px;
     color: #FFFFFF;
     margin-top: 20px;
-    width: 798px;
     margin-bottom: 166px;
 }
 header{
@@ -80,14 +79,6 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     
-}
-form{
-    background: rgba(196, 196, 196, 0.15);
-border: 1px solid #FFFFFF;
-backdrop-filter: blur(5px);
-/* Note: backdrop-filter has minimal browser support */
-
-
 }
 .zayavka{
     font-weight: 700;
@@ -101,11 +92,10 @@ backdrop-filter: blur(5px);
 .logo{
     margin-top: 160px;
 }
-.fa-brands{
-    background: #FFFFFF;
-    color: black;
+.tele{
+    
     margin-left: 40px;
-   border-radius: 15px;
+  
    margin-top: 34px;
    
 }
@@ -115,20 +105,12 @@ backdrop-filter: blur(5px);
     padding-right: 1px;
     padding-left: 1px;
 }
-legend{
-    border: 1px solid #FFFFFF;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 17px;
-    color: #FFFFFF;
-
-}
 form{
     background: rgba(196, 196, 196, 0.15);
     border: 1px solid #FFFFFF;
     backdrop-filter: blur(5px);
    padding-left: 40px;
-   margin-left: 30px;
+   margin-left: 17px;
    margin-top: 67px;
    margin-bottom: 67px;
 }
@@ -139,8 +121,7 @@ label{
     font-size: 14px;
     line-height: 17px;
     color: #FFFFFF;
-   margin-bottom: -10px;
-   
+    padding-bottom: -;
     }
 input{
     margin-top: 10px;
@@ -168,7 +149,6 @@ font-weight: 700;
 font-size: 48px;
 line-height: 59px;
 color: #F0D905;
-width: 800px;
 margin-top: 100px;
  }  
  section{
@@ -179,20 +159,21 @@ margin-top: 100px;
  }
  .img{
     margin-top: 50px;
-    width: 590px;
+    transform: scale(1);
+    margin-bottom: 301px;
  }
  .p{
 font-weight: 400;
-font-size: 24px;
-line-height: 50px;
+font-size: 20px;
+line-height: 45px;
 color: #FFFFFF;
 margin-top: 35px;
-margin-left: 140px;
+margin-left: 110px;
  }
  .position{
-    left: 1044px;
+    left: 960px;
     position: absolute;
-    top: 602px;
+    top: 620px;
     display: flex;
 }
  
@@ -205,34 +186,46 @@ color: #181818;
 background: #F0D905;
 border-radius: 30px;    
 padding: 14px 17px;
+top: -20px;
 
  }
  .btn1{
-    margin-left: 30px;
+    margin-left: 20px;
     font-weight: 700;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
     background: #181818;
-box-shadow: -4px -4px 10px rgba(0, 0, 0, 0.35), 4px 4px 10px rgba(0, 0, 0, 0.35);
-border-radius: 30px;
-padding: 14px 17px;
+    box-shadow: -4px -4px 10px rgba(0, 0, 0, 0.35), 4px 4px 10px rgba(0, 0, 0, 0.35);
+    border-radius: 30px;
+    padding: 14px 17px;
     color: #F0D905;
+    
      }
-     footer{
-        margin-top: 300px;
+footer{
+    background: #181818;
+    box-shadow: 0px -1px 20px rgba(0, 0, 0, 0.5);
      }
      .d{
        display: flex;
+       margin-top: 37px;
        margin-top: -15px;
      }
      .insta{
-        margin-bottom: 77px;
+        margin-bottom: 47px;
+        margin-top: 10px;
         margin-left: 10px;
+        transform: scale(1);
      }
-     
-=======
- }   
+ .list-iteam1{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 40px;
+    list-style: none;
+    margin-right: 30px;
+ }      
  /* ----------------------RESPONSIVE---------- */
  @media (max-width:575px)  {
     .logo1{
@@ -244,19 +237,66 @@ padding: 14px 17px;
         line-height: 88px;
         margin-top: 90px;
         color: #FFFFFF;
-        width: 700px;
+      margin-left: 30px;
     }
     .dizayn{
-        font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 30px;
-/* or 167% */
-
-text-align: center;
-
-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    
+    text-align: center;
+    color: #FFFFFF;
 
     }
+    .btn {
+        padding: 10px 43px;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 22px;
+        color: #181818;
+        background: #C4C4C4;
+        border: 1px solid yellow;
+        background-color: #F0D905;
+        margin-top: -156px;
+        margin-bottom: 36px;
+     margin-left: 67px;
+    }
+    .что {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 44px;
+        color: #F0D905;
+        margin-top: 26px;
+    }
+    .img {
+        margin-top: -50px;
+        transform: scale(0.5);
+        margin-left: -150px;
+    }
+.p{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 42px;
+color: #FFFFFF;
+text-align: start;
+margin-left: 16px;
+margin-top: -322px;
+}
+.list-iteam1 {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-top: 56px;
+    list-style: none;
+    margin-right: 10px;
+}
+.insta {
+    margin-bottom: 48px;
+    margin-top: 12px;
+    margin-left: 27px;
+    transform: scale(0.6);
+}
  }
